@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\bin\Debug\net8.0\alternativeLanguageProjectGiani.exe
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\bin\Debug\net8.0\alternativeLanguageProjectGiani.deps.json
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\bin\Debug\net8.0\alternativeLanguageProjectGiani.runtimeconfig.json
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\bin\Debug\net8.0\alternativeLanguageProjectGiani.dll
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\bin\Debug\net8.0\alternativeLanguageProjectGiani.pdb
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.dll
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\refint\alternativeLanguageProjectGiani.dll
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.pdb
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\ref\alternativeLanguageProjectGiani.dll

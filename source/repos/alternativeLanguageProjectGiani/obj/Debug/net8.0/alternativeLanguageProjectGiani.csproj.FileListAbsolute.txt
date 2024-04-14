@@ -12,3 +12,7 @@ C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\r
 C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.pdb
 C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.genruntimeconfig.cache
 C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\ref\alternativeLanguageProjectGiani.dll
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.sourcelink.json
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\alternativeLanguageProjectGiani\obj\Debug\net8.0\alternativeLanguageProjectGiani.csproj.CopyComplete

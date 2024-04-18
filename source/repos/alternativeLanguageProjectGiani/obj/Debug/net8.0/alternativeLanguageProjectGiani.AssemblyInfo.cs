@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alternativeLanguageProjectGiani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+675aa2c84dd0409cf36c1adc452caf2779c65c81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c367a7aba090699fb83aa97b2a85cee6addf3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("alternativeLanguageProjectGiani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alternativeLanguageProjectGiani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

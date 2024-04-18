@@ -127,7 +127,7 @@ public class Cell
         return !string.IsNullOrEmpty(DisplayResolution) && Regex.IsMatch(DisplayResolution, @"^\d+x\d+$");
     }
 
-    // Assuming this additional method to extract release year from LaunchStatus if available
+    //  this additional function to extract release year from LaunchStatus if available
     public int? GetReleaseYear()
     {
         var match = Regex.Match(LaunchStatus, @"\b\d{4}\b");
